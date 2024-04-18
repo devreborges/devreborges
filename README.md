@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando com análise e tratamento de dados como autônomo [análises e tratamento de dados](https://github.com/devreborges/projetos_analise_dados.ipynb/tree/main)
 
-- 🌱 Atualmente estou aprendendo **Python, Machine learning, Power BI e SQL**
+- 🌱 Atualmente trabalho com **Python, Machine learning, Power BI e SQL**
 
 - 👯 Como sou apaixonado por matemática e estatística, também compartilho conteúdos de matemática no youtube [Canal do youtube](https://www.youtube.com/channel/UCpKtijm7M8qosbkHvzda_NA)
 
