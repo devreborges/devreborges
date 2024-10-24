@@ -9,7 +9,7 @@
 
 - 💬 Me pergunte sobre **Estatística, dados, matemática e tecnologia.**
 
-- 📫 Você pode entrar em contato comigo pelo e-mail **profmatrb@gmail.com**
+- 📫 Você pode entrar em contato comigo pelo e-mail **devreborges@gmail.com**
 
 - 📄 Sou um profissional com 32 anos, mestrando em matemática(IMPA), com certificados de em programação. [https://cursos.alura.com.br/user/renilsonvitao/fullCertificate/971100566afab96aafa9a83d40129754](https://cursos.alura.com.br/user/renilsonvitao/fullCertificate/971100566afab96aafa9a83d40129754)
 
